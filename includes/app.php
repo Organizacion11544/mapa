@@ -15,4 +15,5 @@ error_reporting(-$_ENV['DEBUG_MODE']);
 require 'funciones.php';
 require 'database.php';
 // Conectarnos a la base de datos
+
 ActiveRecord::setDB($db);

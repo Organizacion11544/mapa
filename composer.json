@@ -1,5 +1,5 @@
 {
-    "name": "mindef/base-mvc",
+    "name": "mindef/base2",
     "description": "Proyecto MVC demo",
     "type": "project",
     "config": {
@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "mpdf/mpdf": "*",
+        "mpdf/mpdf": "^8.1",
         "phpmailer/phpmailer": "^6.6",
         "dompdf/dompdf": "^2.0",
         "vlucas/phpdotenv": "^5.5"
